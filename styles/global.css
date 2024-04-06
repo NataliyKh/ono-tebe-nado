@@ -8,6 +8,8 @@ body {
   max-width: 1100px;
   margin: 0 auto;
   padding: 0;
+  border: 0;
+	outline: 0;
   font-family: Raleway, sans-serif;
 }
 
