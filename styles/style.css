@@ -165,19 +165,19 @@ min-height: 563px;
 }
 
 .card_type_film {
-background-image: url("../images/card-lot-01.jpg");
+    background-image: url("../images/card-lot-01.jpg");
 }
 
 .card_type_book {
-background-image: url("../images/card-lot-02.jpg");
+    background-image: url("../images/card-lot-02.jpg");
 }
 
 .card_type_picture {
-background-image: url(../images/card-lot-03.jpg);
+    background-image: url(../images/card-lot-03.jpg);
 }
 
 .card__title {
-   text-decoration: underline; 
+   text-decoration: underline;
    font-size: 22px;
    line-height: 26px;
    text-transform: uppercase;
@@ -224,7 +224,7 @@ background-image: url(../images/card-lot-03.jpg);
 
 .about__logo {
    display: flex;
-   height: 240px; 
+   height: 240px;
    width: 240px;
    border-radius: 100%;
    background-color: #000;
@@ -243,7 +243,6 @@ background-image: url(../images/card-lot-03.jpg);
 
 .about__title {
     flex-direction: row;
-
 }
 
 .about__text-title {
@@ -254,7 +253,7 @@ background-image: url(../images/card-lot-03.jpg);
     font-weight: 800;
     margin-top: 50px;
     float: right;
-    }
+}
 
 .about__text {
     display: flex;
@@ -267,17 +266,13 @@ background-image: url(../images/card-lot-03.jpg);
     font-weight: 400;
     text-transform: none;
     width: 700px;
-     
 }
-
-
 
 .footer {
     display: flex;
     grid-template-columns: 1fr max-content 1fr;
     justify-content: space-between;
-    padding: 180px 50px 87px 50px; 
-    
+    padding: 180px 50px 87px 50px;
 }
 
 .footer__adress {
@@ -294,7 +289,7 @@ background-image: url(../images/card-lot-03.jpg);
     vertical-align: top;
     text-transform: lowercase;
     font-size: 18px;
-    }
+}
 
  .footer__menu-links-item {
     text-align: center;
@@ -313,13 +308,12 @@ background-image: url(../images/card-lot-03.jpg);
     display: flex;
     gap: 50px;
     list-style: none;
-     
 }
 
 .footer__social-icon {
     display: flex;
     gap: 16px;
-    list-style: none; 
+    list-style: none;
 }
 
 .footer__social-icon-yt {
@@ -327,14 +321,9 @@ background-image: url(../images/card-lot-03.jpg);
 }
 
 .footer__social-icon-vk {
-    height: 46px; 
+    height: 46px;
 }
 
 .footer__social-icon-pin {
     height: 46px;
 }
-
-
-
-    
-    
